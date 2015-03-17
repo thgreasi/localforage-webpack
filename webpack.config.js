@@ -6,7 +6,7 @@ module.exports = {
   },
   resolve: {
     alias: {
-      localforageSerializer: 'localforage/src/utils/serializer'
+      localforage: 'localforage/dist/localforage.min'
     }
   }
 };

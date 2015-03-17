@@ -1,0 +1,3 @@
+# Using localforage with Webpack
+
+Test repo to figure out how to get it to work...
