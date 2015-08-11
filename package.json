@@ -9,7 +9,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "localforage": "^1.2.2"
+    "localforage": "git+https://git@github.com/thgreasi/localForage.git#webpack-fix"
   },
   "devDependencies": {
     "script-loader": "^0.6.1"
